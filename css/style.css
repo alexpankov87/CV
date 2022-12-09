@@ -499,6 +499,7 @@ body {
   -moz-background-clip: text;
   background-clip: text;
   font-size: 38px;
+  padding-top: 10px;
 }
 .rightside-about_me > blockquote {
   border-left: 4px solid #e9e4e0;
@@ -664,6 +665,7 @@ body {
   background-clip: text;
   font-size: 28px;
   font-weight: 600;
+  margin-bottom: 10px;
 }
 
 .education-content > span {
