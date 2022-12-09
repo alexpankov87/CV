@@ -721,3 +721,19 @@ body {
   padding-top: 20px;
   line-height: 20px;
 }
+.right-side {
+  background-image: url(img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rightside-card {
+  background: dimgrey;
+  border-top-left-radius: 40px;
+  margin-left: 10px;
+  padding-bottom: 10px;
+  box-shadow: inset 1px 1px 8px 1px #181717;
+}
+
+.rightside-card:hover {
+  outline: 2px solid #d3d3cf;
+}
